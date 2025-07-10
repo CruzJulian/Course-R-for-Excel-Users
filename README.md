@@ -8,6 +8,21 @@ This course has been strongly inspired in those materials:
  - [R for Excel Users](https://rstudio-conf-2020.github.io/r-for-excel/) (book by Julie Lowndes & Allison Horst)
 
 
+The course was conducted in Spanish; therefore, most of the sources in this repository are in Spanish as well.
+
+
+These resources are organized as follows:
+
+* **01\_diagnostico-excel**: Contains diagnostic materials used to assess students’ prior knowledge and skills in Microsoft Excel.
+
+* **02\_material**: Includes datasets for hands-on exercises, such as Colombian municipal and departmental maps and some educatinal data. Thanks to [Saber data](https://github.com/nebulae-co/saber) and [Colmaps](https://github.com/nebulae-co/colmaps).
+
+* **03\_miscelanea**: A collection of complementary study materials and reference documents.
+
+* **04\_resultados**: A directory designated for storing evaluation results generated during the course.
+
+* **05\_avance**: A workspace for student projects; each student uploads their code in a dedicated personal folder.
+
 
 
 ---
@@ -27,7 +42,7 @@ By the end of the course, students will be able to:
 * Manipulate, transform, and summarize data using the `dplyr` package.
 * Read and understand datasets from different formats, especially Excel files.
 * Work with text variables, dates, and categorical data.
-* Perform basic visualization, aggregation, and mapping tasks.
+* Perform basic aggregation, and mapping tasks.
 * Understand key conceptual differences between Excel and R (objects, functions, structures).
 
 ---
@@ -48,11 +63,11 @@ By the end of the course, students will be able to:
 * Watch an introductory video about Excel.
 * Excel knowledge diagnostic test (`01_diagnostico-excel`).
 * Participant introductions.
-* Completion of an expectations form.
+* Completion of an [expectations form](https://forms.office.com/r/j9nJWRGEwJ).
 * Create a first RStudio project: what it is and why it matters.
 * Recommended project folder structure.
 * Install and load the `readxl` package.
-* Load an Excel file into R.
+* Load an Excel file into R. 
 * First conceptual contrast: spreadsheet vs `data.frame`.
 
 ---
